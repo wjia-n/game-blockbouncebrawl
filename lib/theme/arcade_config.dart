@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'blockbouncebrawlcandy',
   tip2Id: 'blockbouncebrawlpancake',
-  tip1Label: '💛 Buy me a candy',
-  tip2Label: '💛 Buy me a pancake',
+  tip1Label: '💛 Buy Block Bounce Brawl a candy',
+  tip2Label: '💛 Buy Block Bounce Brawl a pancake',
 );
